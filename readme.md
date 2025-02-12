@@ -1,15 +1,11 @@
 # Streamlit Ollama Chatbot
 
-This repo contains the completed code for the YouTube tutorial video series:
-
-<a href="https://www.youtube.com/playlist?list=PL39czAYesA5ckKIohbmfL6Bq8X4JwV1Ge" target="_blank"> Build Your Own AI Chatbot with Streamlit and Ollama: A Step-by-Step Tutorial</a>
-
 ### Completed Code
 
 Run the command below to clone the completed project code.
 
 ```
-git clone https://github.com/DevTechBytes/Streamlit-Ollama-Chatbot.git
+git clone https://github.com/AbhitejT/streamlit-ollama-chatbot.git
 ```
 
 ### Getting Starter Project Code
@@ -17,7 +13,7 @@ git clone https://github.com/DevTechBytes/Streamlit-Ollama-Chatbot.git
 Run the command below to clone the starter project.
 
 ```
-git clone --single-branch --branch starter_project https://github.com/DevTechBytes/Streamlit-Ollama-Chatbot.git
+git clone --single-branch --branch starter_project https://github.com/AbhitejT/streamlit-ollama-chatbot.git
 ```
 
 ### Chatbot Features include:
@@ -40,7 +36,7 @@ ollama run <model_name>
 ```
 
 ```
-ollama run llama2-uncensored
+ollama run deepseek-r1
 ```
 
 #### Download Ollama Model
